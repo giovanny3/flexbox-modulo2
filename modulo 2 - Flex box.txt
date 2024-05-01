@@ -1,0 +1,14 @@
+modulo_2 css_vanzado 
+
+Flex Box 
+Guía: https://www.w3schools.com/csS/css3_flexbox.asp
+
+Crear deiseños responsivos 
+
+<div> etiqueta de bloque para hacer contenedores 
+
+en css
+
+display: flex
+
+
